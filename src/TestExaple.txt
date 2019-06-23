@@ -1,0 +1,20 @@
+package com.tsystems.javaschool.tasks;
+
+import org.junit.Assert;
+import org.junit.Test;
+
+public class CalculatorTest {
+
+    Calculator c = new Calculator();
+
+    @Test
+    public void checkPositiveValues() {
+        Assert.assertEquals(c.sum(2,3), 5);
+    }
+
+    @Test
+    public void checkNegativeValues() {
+        Assert.assertEquals(c.sum(-4,-6), -10);
+    }
+
+}
