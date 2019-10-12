@@ -1,4 +1,4 @@
-package DesignPatterns.Singleton;
+package DesignPatterns.singleton;
 
     /* Паттерн проектирования Singleton с приминением метода getInstance:
      * "инициализация по требованию владельца" Подробнее о getInstance:
