@@ -1,5 +1,10 @@
 package DesignPatterns.prototype;
 
-public interface Mob {
+/**
+ * Наследует Cloneable
+ * Псевдо код реализует неких Mob'ов
+ */
+
+public interface Mob extends Cloneable {
 
 }
