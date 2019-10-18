@@ -1,4 +1,25 @@
 # Design patterns and algorithms.
-dev.lang: java;
-jdk version: 1.8;
-also used: maven, idea.
+## Patterns
+- (-) Factory 
+- (-) Abstract Factory 
+- (+) Singleton 
+- (+) Prototype 
+- (-) Builder 
+- (-) Adapter 
+- (-) Bridge 
+- (-) Composite 
+- (-) Decorator 
+- (-) Facade 
+- (-) Flyweight 
+- (-) Proxy 
+- (-) Chain Of Responsibility 
+- (-) Command 
+- (-) Interpreter 
+- (-) Iterator 
+- (-) Mediator 
+- (-) Memento 
+- (-) Observer 
+- (-) State 
+- (-) Strategy 
+- (-) Template 
+- (-) Visitor 
