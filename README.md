@@ -23,3 +23,11 @@
 - (-) Strategy 
 - (-) Template 
 - (-) Visitor 
+## Algorithms
+#### Search
+- (-) Linear
+- (-) Binary
+- (-) Jump
+- (-) Interpolation
+- (-) Exponential
+- (-) Fibonacci
